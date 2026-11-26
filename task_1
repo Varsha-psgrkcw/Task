@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title>Advertisement</title>
+</head>
+<body>
+
+    <h1 align="center">Fresh Juice Shop</h1>
+
+    <h2>Stay Healthy, Stay Fresh!</h2>
+
+    <p>Enjoy our <b>Fresh Fruit Juices!</b></p>
+
+    <h3>Special Offer: Buy 1 Get 1 Free!</h3>
+
+    <hr>
+
+    <h2>Order Now</h2>
+
+    <form>
+        Name:
+        <input type="text"><br><br>
+
+        Phone:
+        <input type="text"><br><br>
+
+        Juice:
+        <select>
+            <option>Apple</option>
+            <option>Mango</option>
+            <option>Orange</option>
+        </select><br><br>
+
+        Quantity:
+        <input type="number"><br><br>
+
+        <button>Order Now</button>
+    </form>
+
+</body>
+</html>
