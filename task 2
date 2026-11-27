@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>My Multimedia Website</title>
+</head>
+<body bgcolor="lightblue">
+
+<h1 align="center">Welcome to My Website</h1>
+<p>Explore our multimedia website.</p>
+
+<h2>Navigation</h2>
+<ul>
+<li><a href="#image">Image</a></li>
+<li><a href="#audio">Audio</a></li>
+<li><a href="#video">Video</a></li>
+<li><a href="#about">About Us</a></li>
+</ul>
+
+<h2 id="image">Image Gallery</h2>
+<img src="https://picsum.photos/id/1018/400/250"
+width="250" alt="Mountain Image">
+
+<h2 id="audio">Audio Gallery</h2>
+<audio controls>
+<source src="https://www.w3schools.com/html/horse.mp3"
+type="audio/mpeg">
+</audio>
+
+<h2 id="video">Video Gallery</h2>
+<video width="300" controls>
+<source src="https://www.w3schools.com/html/movie.mp4"
+type="video/mp4">
+</video>
+
+<h2>Our Services</h2>
+<ol>
+<li>Image Gallery</li>
+<li>Music Collection</li>
+<li>Video Gallery</li>
+</ol>
+
+<h2 id="about">About Us</h2>
+<p>We are students learning HTML.
+Our website contains beautiful images,
+interesting audio and videos.</p>
+
+<p>Thank you for visiting our website!</p>
+
+</body>
+</html>
